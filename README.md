@@ -26,3 +26,4 @@ It steps into the method called in the line of code.
 
 5. What is the difference between evaluate expression and evaluate code fragment?
 Expresion alows user to execute single line of code while code fragment allows to execute longer multiple lines of code (i.e. add temporary variables)
+.
